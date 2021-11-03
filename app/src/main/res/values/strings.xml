@@ -81,7 +81,7 @@
         <item>"\n14 AUXMOVE  =    SC311"</item>
         <item>"\n15"</item>
         <item>"\n16 ****************************"</item>
-        <item>"\n17 * SETUP - move data for VOTC"</item>
+        <item>"\n17 * SETUP - move data for VTOC"</item>
         <item>"\n18 * and catalog to auxmem at"</item>
         <item>"\n19 * B000-B3FF (pseudo trk 11"</item>
         <item>"\n20 * 0-3)"</item>
